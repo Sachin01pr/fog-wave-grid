@@ -1,0 +1,9 @@
+.grid-container {
+  display: flex;
+  flex-direction: column;
+  border: 1px solid #333;
+}
+
+.grid-row {
+  display: flex;
+}
